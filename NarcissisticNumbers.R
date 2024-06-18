@@ -17,7 +17,7 @@ Sum.cubed.digits <- sum(Numeric_string^3)
 
 
 if (is.na(numeric.form)){
-  print("Input is not a number, please try again.")
+  print("Input is not a number.")
 } else if (numeric.form < 0){
   print(paste(number, "is negative, please try a different number"))
 } else if ((0 <= numeric.form & 99 > numeric.form)|numeric.form > 999){
