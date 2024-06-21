@@ -1,4 +1,8 @@
+## review, ## is kim"s comments
+
 #Ok so lets start writing some stuff
+## good start
+
 #make a plan first
 #ask for a number and check if its numeric
 #break it into digit by keeping it in a string
